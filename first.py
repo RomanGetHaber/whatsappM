@@ -1,1 +1,2 @@
-print('hello world pidor')
+print('hello world pidor ebanya')
+print(1 + 1)
